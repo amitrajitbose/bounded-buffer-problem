@@ -8,4 +8,4 @@ Java implementation for the classical OS concept based on synchronization, also 
 
 <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2016/09/producer-consumer-problem-in-c.png" alt="drawing" width="560" height="315"/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VXJSJ6c3ZIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[<img src="https://img.youtube.com/vi/VXJSJ6c3ZIs/maxresdefault.jpg" width="50%">](https://www.youtube.com/embed/VXJSJ6c3ZIs)
